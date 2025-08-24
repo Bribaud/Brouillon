@@ -1,0 +1,280 @@
+{
+  "total_visits": 151,
+  "unique_visitors": 25,
+  "daily_visits": {
+    "2025-08-23": 55,
+    "2025-08-24": 96
+  },
+  "page_views": {
+    "portfolio": 73,
+    "project_details": 78
+  },
+  "project_views": {
+    "projet_4": 25,
+    "price_prediction": 4,
+    "projet_3": 49
+  },
+  "visitors": {
+    "2eb03d5d": {
+      "first_visit": "2025-08-23 21:39:27",
+      "total_visits": 22,
+      "pages_visited": [
+        "portfolio",
+        "project_details"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 21:52:28"
+    },
+    "9db7aa6b": {
+      "first_visit": "2025-08-23 23:00:54",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:00:54"
+    },
+    "2e2efccb": {
+      "first_visit": "2025-08-23 23:02:31",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:02:31"
+    },
+    "1e8287ec": {
+      "first_visit": "2025-08-23 23:03:08",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:03:08"
+    },
+    "437e9dc0": {
+      "first_visit": "2025-08-23 23:10:35",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:10:35"
+    },
+    "552fc900": {
+      "first_visit": "2025-08-23 23:12:14",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:12:14"
+    },
+    "cb3eabc2": {
+      "first_visit": "2025-08-23 23:14:51",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:14:51"
+    },
+    "b68eb8ef": {
+      "first_visit": "2025-08-23 23:17:53",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:17:53"
+    },
+    "75f5b332": {
+      "first_visit": "2025-08-23 23:19:17",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:19:17"
+    },
+    "c4801d5d": {
+      "first_visit": "2025-08-23 23:20:59",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:20:59"
+    },
+    "9a9e5231": {
+      "first_visit": "2025-08-23 23:21:52",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:21:52"
+    },
+    "23a4a206": {
+      "first_visit": "2025-08-23 23:24:02",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:24:02"
+    },
+    "24a9952e": {
+      "first_visit": "2025-08-23 23:25:00",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:25:00"
+    },
+    "5a6f81c5": {
+      "first_visit": "2025-08-23 23:26:22",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:26:22"
+    },
+    "0c26a4b9": {
+      "first_visit": "2025-08-23 23:27:14",
+      "total_visits": 3,
+      "pages_visited": [
+        "portfolio",
+        "project_details"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:28:18"
+    },
+    "1a3795c8": {
+      "first_visit": "2025-08-23 23:39:26",
+      "total_visits": 3,
+      "pages_visited": [
+        "portfolio",
+        "project_details"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:39:36"
+    },
+    "3218a44f": {
+      "first_visit": "2025-08-23 23:43:07",
+      "total_visits": 9,
+      "pages_visited": [
+        "portfolio",
+        "project_details"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-23 23:54:38"
+    },
+    "11da096c": {
+      "first_visit": "2025-08-23 23:56:10",
+      "total_visits": 19,
+      "pages_visited": [
+        "portfolio",
+        "project_details"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-24 00:15:15"
+    },
+    "d70795ea": {
+      "first_visit": "2025-08-24 17:58:42",
+      "total_visits": 53,
+      "pages_visited": [
+        "portfolio",
+        "project_details"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-24 18:51:42"
+    },
+    "d1f40270": {
+      "first_visit": "2025-08-24 19:33:38",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-24 19:33:38"
+    },
+    "71530dc1": {
+      "first_visit": "2025-08-24 19:35:03",
+      "total_visits": 1,
+      "pages_visited": [
+        "portfolio"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-24 19:35:03"
+    },
+    "b77aba06": {
+      "first_visit": "2025-08-24 19:54:54",
+      "total_visits": 9,
+      "pages_visited": [
+        "portfolio",
+        "project_details"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-24 20:17:51"
+    },
+    "68276741": {
+      "first_visit": "2025-08-24 22:13:27",
+      "total_visits": 8,
+      "pages_visited": [
+        "portfolio",
+        "project_details"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-24 22:18:31"
+    },
+    "5069ef77": {
+      "first_visit": "2025-08-24 22:37:05",
+      "total_visits": 7,
+      "pages_visited": [
+        "portfolio",
+        "project_details"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-24 23:04:31"
+    },
+    "55fe310f": {
+      "first_visit": "2025-08-24 23:05:16",
+      "total_visits": 3,
+      "pages_visited": [
+        "portfolio",
+        "project_details"
+      ],
+      "total_time_spent": "0s",
+      "sessions": [],
+      "last_visit": "2025-08-24 23:05:25"
+    }
+  },
+  "sessions": {}
+}
